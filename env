@@ -1,0 +1,2 @@
+PORT=3000
+DB_URI="mongodb+srv://damiromerasevic:MONGODB123$mongodb@clusterdamirfreecodecam.bcs8y.mongodb.net/newCollection?retryWrites=true&w=majority&appName=ClusterDamirFreeCodeCamp"
